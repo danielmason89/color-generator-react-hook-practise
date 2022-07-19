@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/color-generator-react-hook-practise/precache-manifest.22ef79437a1eb7d2575b2bc6f78a8c5e.js"
+  "/color-generator-react-hook-practise/precache-manifest.4c06740291c6b449c9b234001f2e46c1.js"
 );
 
 self.addEventListener('message', (event) => {

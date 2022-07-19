@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/color-generator-react-hook-practise/static/css/main.9f3b6256.chunk.css",
-    "main.js": "/color-generator-react-hook-practise/static/js/main.91829694.chunk.js",
-    "main.js.map": "/color-generator-react-hook-practise/static/js/main.91829694.chunk.js.map",
+    "main.js": "/color-generator-react-hook-practise/static/js/main.c61f73dd.chunk.js",
+    "main.js.map": "/color-generator-react-hook-practise/static/js/main.c61f73dd.chunk.js.map",
     "runtime-main.js": "/color-generator-react-hook-practise/static/js/runtime-main.213bec51.js",
     "runtime-main.js.map": "/color-generator-react-hook-practise/static/js/runtime-main.213bec51.js.map",
-    "static/js/2.9014a315.chunk.js": "/color-generator-react-hook-practise/static/js/2.9014a315.chunk.js",
-    "static/js/2.9014a315.chunk.js.map": "/color-generator-react-hook-practise/static/js/2.9014a315.chunk.js.map",
+    "static/js/2.a59938c1.chunk.js": "/color-generator-react-hook-practise/static/js/2.a59938c1.chunk.js",
+    "static/js/2.a59938c1.chunk.js.map": "/color-generator-react-hook-practise/static/js/2.a59938c1.chunk.js.map",
     "index.html": "/color-generator-react-hook-practise/index.html",
-    "precache-manifest.22ef79437a1eb7d2575b2bc6f78a8c5e.js": "/color-generator-react-hook-practise/precache-manifest.22ef79437a1eb7d2575b2bc6f78a8c5e.js",
+    "precache-manifest.4c06740291c6b449c9b234001f2e46c1.js": "/color-generator-react-hook-practise/precache-manifest.4c06740291c6b449c9b234001f2e46c1.js",
     "service-worker.js": "/color-generator-react-hook-practise/service-worker.js",
     "static/css/main.9f3b6256.chunk.css.map": "/color-generator-react-hook-practise/static/css/main.9f3b6256.chunk.css.map",
-    "static/js/2.9014a315.chunk.js.LICENSE.txt": "/color-generator-react-hook-practise/static/js/2.9014a315.chunk.js.LICENSE.txt"
+    "static/js/2.a59938c1.chunk.js.LICENSE.txt": "/color-generator-react-hook-practise/static/js/2.a59938c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.213bec51.js",
-    "static/js/2.9014a315.chunk.js",
+    "static/js/2.a59938c1.chunk.js",
     "static/css/main.9f3b6256.chunk.css",
-    "static/js/main.91829694.chunk.js"
+    "static/js/main.c61f73dd.chunk.js"
   ]
 }
