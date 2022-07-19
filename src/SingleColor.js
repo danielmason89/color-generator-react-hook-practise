@@ -7,6 +7,12 @@ const SingleColor = ({ rgb, weight, index, hexColor }) => {
   const hexValue = `#${hexColor}`;
   // For reference can use either hex or hexColor..
   // const hex = rgbToHex(...rgb);
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      setAlert(false);
+    }, 2500);
+    return () => clearTimeout(timeout);
+  }, [alert]);
 
   return (
     <article
@@ -15,6 +21,17 @@ const SingleColor = ({ rgb, weight, index, hexColor }) => {
     >
       <p className="percent-value">{weight}%</p>
       <p className="color-value">{hexValue}</p>
+      <button
+        className="btn"
+        style={{ margin: "auto" }}
+        onClick={() => {
+          setAlert(true);
+          navigator.clipboard.writeText(hexValue);
+        }}
+      >
+        copy to clipboard
+      </button>
+      {alert && <p className="alert">copied to clipboard</p>}
     </article>
   );
 };
